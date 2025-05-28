@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a full-stack developer, creative coder, and di
 ## 🧪 Latest Interests
 
 - 🔊 Exploring **Automatic Speech Recognition (ASR)**:
-  - Tools: **Whisper**, **Vosk**, **Kaldi**, **MFA**.
+  - Tools: **Whisper**, **Vosk**, **Kaldi**.
   - Working on domain adaptation under tight computational constraints.
   - Gaining deep familiarity with speech tech pipelines and acoustic models.
 - 🎨 UI Experiments: Rebuilding the **Twitter UI** using **React + plain CSS**.
@@ -71,19 +71,5 @@ Welcome to my GitHub profile! I'm a full-stack developer, creative coder, and di
 - ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize)
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio)
 
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparkandflash&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparkandflash&layout=compact&theme=radical)
-
----
-
-## 🌐 Find Me Here
-
-[![Website](https://img.shields.io/badge/-Website-000?style=flat-square)](https://lsz.varnexo.in)
-
----
 
 > ✨ I believe in learning through experimentation, documenting the journey, and building in the open. Thanks for stopping by!
