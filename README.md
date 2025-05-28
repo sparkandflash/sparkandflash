@@ -75,16 +75,14 @@ Welcome to my GitHub profile! I'm a full-stack developer, creative coder, and di
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparkandflash&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparkandflash&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Find Me Here
 
 [![Website](https://img.shields.io/badge/-Website-000?style=flat-square)](https://lsz.varnexo.in)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/your-profile)
 
 ---
 
