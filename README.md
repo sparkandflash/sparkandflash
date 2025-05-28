@@ -57,6 +57,8 @@ Welcome to my GitHub profile! I'm a full-stack developer, creative coder, and di
 **DevOps & Infra**
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 - ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+- ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx)
+- ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 **Blockchain & Crypto**
@@ -71,5 +73,6 @@ Welcome to my GitHub profile! I'm a full-stack developer, creative coder, and di
 - ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize)
 - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio)
 
+---
 
 > ✨ I believe in learning through experimentation, documenting the journey, and building in the open. Thanks for stopping by!
