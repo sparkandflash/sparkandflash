@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name] (aka sparkandflash)
+# 👋 Hey there! I'm LSZ
 
 Welcome to my GitHub profile! I'm a full-stack developer, creative coder, and digital tinkerer with a deep appreciation for open-source, expressive interfaces, and all things experimental. Here's a bit about my tech journey 👇
 
