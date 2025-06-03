@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a full-stack developer, creative coder, and di
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
 
 **DevOps & Infra**
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 - ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 - ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx)
 - ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2)
