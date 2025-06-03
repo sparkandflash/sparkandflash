@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a full-stack developer, creative coder, and di
 ## 🛠️ Tech Stack
 
 **Frontend**
-- ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+- ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
 - ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 - ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-teal?style=flat-square&logo=chakraui)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
