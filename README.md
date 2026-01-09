@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a full-stack developer, creative coder, and di
   - Deployed custom **smart contracts** on **Polygon (Matic)** and testnets.
   - Used **IPFS** for decentralized file storage.
   - Minted and sold NFTs on **Opensea**, **Foundation**, and **WazirX** (~$100 in NFT sales).
-- 🎨 I'm also a digital artist (real art, no AI slop).
+- 🎨 I'm also a digital artist.
 
 ---
 
